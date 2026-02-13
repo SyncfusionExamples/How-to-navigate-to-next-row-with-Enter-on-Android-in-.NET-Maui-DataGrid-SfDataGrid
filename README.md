@@ -1,5 +1,6 @@
 # How to navigate to next row with Enter on Android in .NET Maui DataGrid SfDataGrid?
-This sample demonstrates how to navigate to next row with Enter on Android in [.NET Maui DataGrid](https://help.syncfusion.com/maui/datagrid/overview)? (SfDataGrid)
+This sample demonstrates how to navigate to next row with Enter on Android in [.NET Maui DataGrid](https://help.syncfusion.com/maui/datagrid/overview)? (SfDataGrid).
+It achieves this by customizing the text cell renderer to handle the Enter key and programmatically move the current cell to the next row during editing.
 
 ## Xaml
 ```
@@ -103,7 +104,7 @@ This sample demonstrates how to navigate to next row with Enter on Android in [.
 ```
 
 ### ScreenShot
-<img src="https://support.syncfusion.com/kb/agent/attachment/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjU5MzAwIiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.vHLgM-Scj6yWcTjvtbbkV62Ie1MY_Eg8kN6kr3CLfQE" width=800/>
+<img src="https://support.syncfusion.com/kb/agent/attachment/article/22728/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjU5MzIzIiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.V5X0GIj2RNy7XmFOOohYK9PONahZQticvUaZ_7G_aVs" width=800/>
 
 [View sample in GitHub](https://github.com/SyncfusionExamples/How-to-navigate-to-next-row-with-Enter-on-Android-in-.NET-Maui-DataGrid-SfDataGrid)
 
